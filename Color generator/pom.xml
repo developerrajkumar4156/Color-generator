@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.developerrajkumar4156</groupId>
+    <groupId>io.github.developerrajkumar4156</groupId>
     <artifactId>color-generator</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -23,7 +23,7 @@
         <developer>
             <name>Raj kumar</name>
             <email>developerrajkumar4156@gmail.com</email>
-            <organization>com.github.developerrajkumar4156</organization>
+            <organization>io.github.developerrajkumar4156</organization>
             <organizationUrl>https://github.com/developerrajkumar4156</organizationUrl>
         </developer>
     </developers>
