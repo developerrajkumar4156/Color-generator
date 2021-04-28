@@ -11,6 +11,7 @@
     <name>Random color generator </name>
     <description>This library is used to generate colors randomly.</description>
     <url>https://github.com/developerrajkumar4156/Color-generator</url>
+    <packaging>jar</packaging>
 
     <licenses>
         <license>
