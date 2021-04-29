@@ -35,6 +35,11 @@
         <url>https://github.com/developerrajkumar4156/Color-generator</url>
     </scm>
 
+    <properties>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
+    </properties>
+
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
