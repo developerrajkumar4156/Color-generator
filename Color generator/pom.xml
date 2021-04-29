@@ -6,7 +6,7 @@
 
     <groupId>io.github.developerrajkumar4156</groupId>
     <artifactId>color-generator</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Random color generator </name>
     <description>This library is used to generate colors randomly.</description>
